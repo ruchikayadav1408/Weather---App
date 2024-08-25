@@ -7,6 +7,6 @@ Website link: https://weather-app-e2zg.onrender.com/
  The app displays the current weather conditions for the user’s current location and the temperature,
  humidity, wind speed, and other weather data.
 
- ![Screenshot (556)](https://github.com/user-attachments/assets/611be240-ff3c-4796-b192-8fc5481c27c1)
-![Screenshot (557)](https://github.com/user-attachments/assets/8586d3b0-71a9-478b-9f21-8d39413a6372)
-![Screenshot (558)](https://github.com/user-attachments/assets/835c6d4a-e314-4ff7-89bf-79e99e2a9bdf)
+
+![Screenshot (556)](https://github.com/user-attachments/assets/0e235f1c-bf9d-4f8f-bf64-e76ec326ed5c)
+![Screenshot (557)](https://github.com/user-attachments/assets/3ab91325-3fe2-438c-b82f-70d4919b6a47)
