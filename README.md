@@ -1,4 +1,4 @@
-# Weather App ![image](https://github.com/user-attachments/assets/0568f10c-a11c-4b7d-be83-27027e25700d)
+# Weather App  <img align="left" alt="food" width ="60px" src="https://github.com/user-attachments/assets/0568f10c-a11c-4b7d-be83-27027e25700d" >
 
 Website link: https://weather-app-e2zg.onrender.com/
 
